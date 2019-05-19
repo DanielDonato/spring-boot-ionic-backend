@@ -31,7 +31,7 @@ public class Application  implements CommandLineRunner {
 
 	@Autowired
 	private ClienteRepository clienteRepository;
-	
+
 	@Autowired
 	private EnderecoRepository enderecoRepository;
 
